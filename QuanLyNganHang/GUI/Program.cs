@@ -16,11 +16,7 @@ namespace GUI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-<<<<<<< HEAD
             Application.Run(new Frm_ViPham());
-=======
-            Application.Run(new frmTaiKhoanDangNhap());
->>>>>>> login-ver1.1
         }
     }
 }
